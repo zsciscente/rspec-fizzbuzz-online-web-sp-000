@@ -2,13 +2,13 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(x)
-  if 
+  if x % 3 && % 5 == 0 
+    "FizzBuzz"
     
     x % 3 == 0 
     "Fizz"
   elsif x % 5 == 0 
     "Buzz"
-  elsif x % 3 && % 5 == 0 
-    "FizzBuzz"
+  elsif 
   end
 end
